@@ -10,3 +10,15 @@ C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.AP
 C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csproj.CopyComplete
 C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.dll
 C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.pdb
+C:\GitHub-Projects\MicroService-POC\AccountService.API\bin\Debug\netcoreapp3.1\AccountService.API.deps.json
+C:\GitHub-Projects\MicroService-POC\AccountService.API\bin\Debug\netcoreapp3.1\AccountService.API.dll
+C:\GitHub-Projects\MicroService-POC\AccountService.API\bin\Debug\netcoreapp3.1\AccountService.API.pdb
+C:\GitHub-Projects\MicroService-POC\AccountService.API\bin\Debug\netcoreapp3.1\CoreService.dll
+C:\GitHub-Projects\MicroService-POC\AccountService.API\bin\Debug\netcoreapp3.1\CoreService.pdb
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csprojAssemblyReference.cache
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.AssemblyInfoInputs.cache
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.AssemblyInfo.cs
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csproj.CoreCompileInputs.cache
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csproj.CopyComplete
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.dll
+C:\GitHub-Projects\MicroService-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.pdb

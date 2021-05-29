@@ -1787,10 +1787,7 @@
         },
         "runtime": {
           "bin/placeholder/AccountService.API.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "CoreService/1.0.0": {
         "type": "project",
@@ -1806,10 +1803,7 @@
         },
         "runtime": {
           "bin/placeholder/CoreService.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -6599,11 +6593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Microservice-POC\\AccountService\\AccountService.csproj",
+      "projectUniqueName": "C:\\GitHub-Projects\\MicroService-POC\\AccountService\\AccountService.csproj",
       "projectName": "AccountService",
-      "projectPath": "C:\\Microservice-POC\\AccountService\\AccountService.csproj",
+      "projectPath": "C:\\GitHub-Projects\\MicroService-POC\\AccountService\\AccountService.csproj",
       "packagesPath": "C:\\Users\\ajaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Microservice-POC\\AccountService\\obj\\",
+      "outputPath": "C:\\GitHub-Projects\\MicroService-POC\\AccountService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6619,8 +6613,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Microservice-POC\\AccountService.API\\AccountService.API.csproj": {
-              "projectPath": "C:\\Microservice-POC\\AccountService.API\\AccountService.API.csproj"
+            "C:\\GitHub-Projects\\MicroService-POC\\AccountService.API\\AccountService.API.csproj": {
+              "projectPath": "C:\\GitHub-Projects\\MicroService-POC\\AccountService.API\\AccountService.API.csproj"
             }
           }
         }

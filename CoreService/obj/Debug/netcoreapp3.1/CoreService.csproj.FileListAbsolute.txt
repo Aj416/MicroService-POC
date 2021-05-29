@@ -7,3 +7,12 @@ C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.csproj.CoreC
 C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.dll
 C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.pdb
 C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.csprojAssemblyReference.cache
+C:\GitHub-Projects\MicroService-POC\CoreService\bin\Debug\netcoreapp3.1\CoreService.deps.json
+C:\GitHub-Projects\MicroService-POC\CoreService\bin\Debug\netcoreapp3.1\CoreService.dll
+C:\GitHub-Projects\MicroService-POC\CoreService\bin\Debug\netcoreapp3.1\CoreService.pdb
+C:\GitHub-Projects\MicroService-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.csprojAssemblyReference.cache
+C:\GitHub-Projects\MicroService-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.AssemblyInfoInputs.cache
+C:\GitHub-Projects\MicroService-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.AssemblyInfo.cs
+C:\GitHub-Projects\MicroService-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.csproj.CoreCompileInputs.cache
+C:\GitHub-Projects\MicroService-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.dll
+C:\GitHub-Projects\MicroService-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.pdb

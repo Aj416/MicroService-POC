@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Microservice-POC\\CoreService\\CoreService.csproj",
+      "projectUniqueName": "C:\\GitHub-Projects\\MicroService-POC\\CoreService\\CoreService.csproj",
       "projectName": "CoreService",
-      "projectPath": "C:\\Microservice-POC\\CoreService\\CoreService.csproj",
+      "projectPath": "C:\\GitHub-Projects\\MicroService-POC\\CoreService\\CoreService.csproj",
       "packagesPath": "C:\\Users\\ajaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Microservice-POC\\CoreService\\obj\\",
+      "outputPath": "C:\\GitHub-Projects\\MicroService-POC\\CoreService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -826,9 +826,6 @@
           }
         ],
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
