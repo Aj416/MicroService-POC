@@ -1,0 +1,12 @@
+C:\Microservice-POC\AccountService.API\bin\Debug\netcoreapp3.1\AccountService.API.deps.json
+C:\Microservice-POC\AccountService.API\bin\Debug\netcoreapp3.1\AccountService.API.dll
+C:\Microservice-POC\AccountService.API\bin\Debug\netcoreapp3.1\AccountService.API.pdb
+C:\Microservice-POC\AccountService.API\bin\Debug\netcoreapp3.1\CoreService.dll
+C:\Microservice-POC\AccountService.API\bin\Debug\netcoreapp3.1\CoreService.pdb
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csprojAssemblyReference.cache
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.AssemblyInfoInputs.cache
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.AssemblyInfo.cs
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csproj.CoreCompileInputs.cache
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.csproj.CopyComplete
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.dll
+C:\Microservice-POC\AccountService.API\obj\Debug\netcoreapp3.1\AccountService.API.pdb

@@ -1,0 +1,32 @@
+version: '3.1'
+
+services:
+  account-service:
+    build:
+      context: ../
+      dockerfile: AccountService/Dockerfile 
+    depends_on:
+      - sql
+    container_name: account-service
+    ports:
+      - "8080:5000"
+    environment:
+      - "Settings:UseInMemoryDatabase=false"
+    networks:
+      - test
+
+  sql:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    container_name: sql
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "P@SSword!@#123"
+    ports:
+      - "1444:1433"
+    networks:
+      - test
+
+networks:
+  test:
+    name: test
+    driver: bridge

@@ -1,0 +1,9 @@
+C:\Microservice-POC\CoreService\bin\Debug\netcoreapp3.1\CoreService.deps.json
+C:\Microservice-POC\CoreService\bin\Debug\netcoreapp3.1\CoreService.dll
+C:\Microservice-POC\CoreService\bin\Debug\netcoreapp3.1\CoreService.pdb
+C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.AssemblyInfoInputs.cache
+C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.AssemblyInfo.cs
+C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.csproj.CoreCompileInputs.cache
+C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.dll
+C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.pdb
+C:\Microservice-POC\CoreService\obj\Debug\netcoreapp3.1\CoreService.csprojAssemblyReference.cache
