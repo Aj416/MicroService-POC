@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I2KU1blC4a3Bi4shYw9iu2xyQP0FjSS+vo7xkYwaN1FcCg0u7CCGFMhOoSUr9mobeasvNxh1ZEkzePpdxNa3hQ==",
+  "dgSpecHash": "ryXsRNLrB8VmCXGUpIAQ801Yf6coetBTvJkdJx3+Dc862opeWS3jc0xUsQrzsrOkMtRYb2YqEwvkCkKTCEh1WQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub-Projects\\MicroService-POC\\CoreService\\CoreService.csproj",
   "expectedPackageFiles": [
